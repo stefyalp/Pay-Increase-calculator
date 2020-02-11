@@ -2,8 +2,8 @@
 //  main.cpp
 //  HPEA3
 //
-//  Created by Hasan Qureshi on 2/6/20.
-//  Copyright © 2020 Hasan Qureshi. All rights reserved.
+//  
+//  Copyright © 2020. All rights reserved.
 //
 
 #include <iostream>
